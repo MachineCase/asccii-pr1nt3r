@@ -13,14 +13,14 @@ Compile o código usando o comando:
 ### bash
 ```bash
 # Copy code
-gcc main.c -o ascii_print
+gcc -o ascii-pr1nt3r ascii-pr1nt3r.c
 ```
 Execute o programa fornecendo o caminho para o arquivo binário que você deseja analisar. Por exemplo:
 
 ### bash
 ```bash
 # Copy code
-./ascii_print path/to/file.bin
+./aascii-pr1nt3r path/to/file.bin
 ```
 Certifique-se de substituir path/to/file.bin pelo caminho real do arquivo que você deseja analisar.
 
