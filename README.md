@@ -20,7 +20,7 @@ Execute o programa fornecendo o caminho para o arquivo binário que você deseja
 ### bash
 ```bash
 # Copy code
-./aascii-pr1nt3r path/to/file.bin
+./ascii-pr1nt3r path/to/file.bin
 ```
 Certifique-se de substituir path/to/file.bin pelo caminho real do arquivo que você deseja analisar.
 
